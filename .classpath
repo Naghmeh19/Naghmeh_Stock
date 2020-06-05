@@ -6,5 +6,6 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="D:/HTL/DBI_GT/04_ConnectOracle/Code_Connection_D/Code_Connection_D/ojdbc6.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
